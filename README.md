@@ -1,6 +1,10 @@
 Marceline
 ======
 
+<a href="https://azuredeploy.net/" target="_blank">
+    <img src="http://azuredeploy.net/deploybutton.png"/>
+</a>
+
 A happy theme for [Ghost](https://github.com/tryghost/ghost/) by [Germán Encinas](http://germanencinas.com/).
 
 View Marceline in action [here](http://germanencinas.com/marceline).
